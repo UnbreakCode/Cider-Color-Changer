@@ -1,5 +1,5 @@
 {
-    "name": "ColorChanger",
+    "name": "cider-color-changer",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
